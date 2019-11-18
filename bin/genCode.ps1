@@ -1,1 +1,1 @@
-C:\softwares\protoc-3.6.1-win32\bin\protoc --proto_path=src --java_out=build/gen src/helloWorld.proto
+C:\softwares\protoc-3.6.1-win32\bin\protoc --proto_path=../src --java_out=../src/main/java ../src/resources/helloWorld.proto
