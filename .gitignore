@@ -1,5 +1,6 @@
 #generated java files
 src/main/java
+target
 # Compiled class file
 *.class
 
