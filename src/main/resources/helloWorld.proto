@@ -15,7 +15,6 @@ message Greeting {
 
 
 
-service HelloWorld1234 {
+service HelloWorldService {
   rpc sayHello (Person) returns (Greeting);
-  rpc sayHello123 (Person) returns (Greeting);
 }
