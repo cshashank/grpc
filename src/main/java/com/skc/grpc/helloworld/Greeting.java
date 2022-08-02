@@ -16,7 +16,7 @@ private static final long serialVersionUID = 0L;
     super(builder);
   }
   private Greeting() {
-    message_ = "";
+    message_ = "abc";
   }
 
   @java.lang.Override
